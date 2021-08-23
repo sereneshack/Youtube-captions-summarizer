@@ -1,5 +1,4 @@
 # Youtube-captions-summarizer
-# Youtube-captions-summarizer
 **Objective** <br />Used advanced NLP techniques to summarize the video by extracting captions
 *****
 **Requirement** <br />
